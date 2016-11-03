@@ -18,4 +18,6 @@
 ### Pandas 簡介
 - https://www.slideshare.net/secret/HU75ldZcvgPFgC
 
+### InfoLite
+- https://chrome.google.com/webstore/detail/infolite/ipjbadabbpedegielkhgpiekdlmfpgal
 
